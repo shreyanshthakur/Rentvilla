@@ -7,4 +7,10 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="rentvillalogo">Rentvillalogo</string>
+    <string name="fullname">Full Name</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="i_agree_to_terms_and_conditions">I agree to terms and conditions</string>
+    <string name="username">Username</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
 </resources>
