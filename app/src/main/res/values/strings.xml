@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rentvilla</string>
+    <string name="rentvillalogo1">RentVillaLogo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">Login</string>
+    <string name="powered_by_shreylabs">Powered by ShreyLabs</string>
+    <string name="sign_in">Signin</string>
+    <string name="full_name">Full name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="i_agree_to_terms_and_conditions">I agree to terms and conditions</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
